@@ -9,9 +9,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class Springboot03Application {
 
 	public static void main(String[] args) {
-
-
-		System.out.println("启动");
 		SpringApplication.run(Springboot03Application.class, args);
 	}
 
